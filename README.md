@@ -9,5 +9,5 @@ say 1 command cloud + 1000 cloud nodes
 
 welcome to the future everyone
 
-these are step-by step instructions on how to gather or prtoect yourself from various information gathering techniwues
+these are step-by step instructions on how to gather or prtoect yourself from various information gathering techniques
 
